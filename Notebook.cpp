@@ -13,7 +13,7 @@ void Notebook::erase(unsigned int page, unsigned int row, unsigned int col, arie
 
 }
 string Notebook:: read(unsigned int page, unsigned int row, unsigned int col, ariel::Direction direction, int length){
-    return "Hello";
+    return "";
 }
 void Notebook::show(unsigned int page){
     
